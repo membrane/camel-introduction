@@ -1,0 +1,28 @@
+{
+	"nr": 731,
+	"datum": "08.05.2015",
+	"kunde": "predic8 GmbH",
+	"adresse": {
+		"plz": "50667",
+		"city": "Köln"
+	},
+	"positionen": [{
+		"einheit": "Packung",
+		"menge": 5,
+		"beschreibung": "Oolong Tee",
+		"preis": 5.98,
+		"lieferbar": true
+	}, {
+		"einheit": "Stück",
+		"menge": 1,
+		"beschreibung": "Kanne",
+		"preis": 25.00,
+		"lieferbar": false
+	}, {
+		"einheit": "Flaschen",
+		"menge": 8,
+		"beschreibung": "Kölsch",
+		"preis": 1.15,
+		"lieferbar": true
+	}]
+}
